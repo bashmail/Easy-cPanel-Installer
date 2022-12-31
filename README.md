@@ -34,7 +34,7 @@ curl -sSL https://raw.githubusercontent.com/bashmail/Easy-cPanel-Installer/main/
 ````
 
 ## License: 
-Freeware
+GNU General Public License v3.0
 
 ## Detailed Description: 
 This is a free to use Bash Script to Install cPanel, Optimize and Secure it with a single command. You can use this script on Blank Server and or an existing cPanel Server.
